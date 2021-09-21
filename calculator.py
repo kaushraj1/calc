@@ -25,4 +25,4 @@ class Calculator:
         r = self.num1 / self.num2
         result = 'The quotient when ' + str(self.num1) + ' is divided by ' + str(self.num2) + ' is ' + str(r)
         print(result)
-        return result
+        
